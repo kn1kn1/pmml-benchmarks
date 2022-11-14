@@ -1,15 +1,9 @@
-Kie-benchmarks repository [![PR Check Status Badge](https://github.com/kiegroup/kie-benchmarks/actions/workflows/pull_request.yml/badge.svg)](https://github.com/kiegroup/kie-benchmarks/actions/workflows/pull_request.yml)
-=========================
-This repository contains benchmarks from various areas of Kie group projects.  
+# pmml-benchmarks
+This repository is forked from [Kie-benchmarks](https://github.com/kiegroup/kie-benchmarks) and add benchmarks for the following PMML evaluator libraries.
+- [JPMML-Evaluator](https://github.com/jpmml/jpmml-evaluator)
+- [PMML4S](https://github.com/autodeployai/pmml4s)
 
-For more information about Drools benchmarks, see [Drools benchmarks README](https://github.com/kiegroup/kie-benchmarks/tree/master/drools-benchmarks).
-
-Developing Drools and jBPM
-==========================
-
-**If you want to build or contribute to a droolsjbpm project, [read this document](https://github.com/droolsjbpm/droolsjbpm-build-bootstrap/blob/master/README.md).**
-
-**It will save you and us a lot of time by setting up your development environment correctly.**
-It solves all known pitfalls that can disrupt your development.
-It also describes all guidelines, tips and tricks.
-If you want your pull requests (or patches) to be merged into master, please respect those guidelines.
+For more information about the benchmarks, see the following README files. 
+- Drools benchmarks README
+- JPMML benchmarks README
+- PMML4S benchmarks README
