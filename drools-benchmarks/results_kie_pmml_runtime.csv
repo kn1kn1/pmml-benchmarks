@@ -1,0 +1,6 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"org.drools.benchmarks.pmml.runtime.clustering.PMMLEvaluateSingleIrisKMeansClusteringBenchmark.evaluatePrediction","ss",1,250,0.091920,0.008963,"ms/op"
+"org.drools.benchmarks.pmml.runtime.mining.PMMLEvaluateRandomForestBenchmark.evaluatePrediction","ss",1,250,0.134027,0.022129,"ms/op"
+"org.drools.benchmarks.pmml.runtime.regression.PMMLEvaluateLinearRegressionSampleWithTransformationsBenchmark.evaluatePrediction","ss",1,250,0.135317,0.008820,"ms/op"
+"org.drools.benchmarks.pmml.runtime.scorecard.PMMLEvaluateSimpleScorecardWithTransformationsBenchmark.evaluatePrediction","ss",1,250,0.116197,0.008646,"ms/op"
+"org.drools.benchmarks.pmml.runtime.tree.PMMLEvaluateSampleMineTreeModelWithTransformationsBenchmark.evaluatePrediction","ss",1,250,0.116543,0.009922,"ms/op"

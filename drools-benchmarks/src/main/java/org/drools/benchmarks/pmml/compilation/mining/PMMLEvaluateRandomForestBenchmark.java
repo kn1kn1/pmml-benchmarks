@@ -29,8 +29,8 @@ import java.util.Map;
 import static org.drools.benchmarks.pmml.util.PMMLUtil.*;
 
 @State(Scope.Benchmark)
-@Warmup(iterations = 300)
-@Measurement(iterations = 50)
+@Warmup(iterations = 2)
+@Measurement(iterations = 3)
 public class PMMLEvaluateRandomForestBenchmark extends AbstractBenchmark {
 
     public static final String FILE_NAME_NO_SUFFIX = "RandomForest";
